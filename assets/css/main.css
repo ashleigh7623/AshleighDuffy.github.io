@@ -61,8 +61,8 @@ mark {
 }
 
 input::-moz-focus-inner {
-	border: 0;
-	padding: 0;
+	border: 2px;
+	padding: 5px;
 }
 
 input, select, textarea {
